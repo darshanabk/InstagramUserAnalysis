@@ -1,4 +1,7 @@
 # Instagram User Engagement Analysis
+<p align="left">
+  <img src="https://github.com/darshanabk/InstagramUserAnalysis/blob/main/insta.jfif" width="800" title="hover text">
+</p>
 
 ## Project Overview
 This project aims to analyze user engagement and activity on Instagram to provide insights into:
